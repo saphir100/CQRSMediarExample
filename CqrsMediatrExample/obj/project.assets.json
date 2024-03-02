@@ -586,16 +586,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ALIChegini\\project\\TutoriaASP\\CqrsMediatrExample\\CqrsMediatrExample\\CqrsMediatrExample.csproj",
+      "projectUniqueName": "C:\\Users\\Sephiroth\\Desktop\\New folder (3)\\CQRSMediarExample\\CqrsMediatrExample\\CqrsMediatrExample.csproj",
       "projectName": "CqrsMediatrExample",
-      "projectPath": "E:\\ALIChegini\\project\\TutoriaASP\\CqrsMediatrExample\\CqrsMediatrExample\\CqrsMediatrExample.csproj",
+      "projectPath": "C:\\Users\\Sephiroth\\Desktop\\New folder (3)\\CQRSMediarExample\\CqrsMediatrExample\\CqrsMediatrExample.csproj",
       "packagesPath": "C:\\Users\\Sephiroth\\.nuget\\packages\\",
-      "outputPath": "E:\\ALIChegini\\project\\TutoriaASP\\CqrsMediatrExample\\CqrsMediatrExample\\obj\\",
+      "outputPath": "C:\\Users\\Sephiroth\\Desktop\\New folder (3)\\CQRSMediarExample\\CqrsMediatrExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "C:\\Users\\Sephiroth\\Desktop\\NuGet.Config",
         "C:\\Users\\Sephiroth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

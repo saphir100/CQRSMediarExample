@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xty98UQlE4E5bpGlzQRUxvs5pDOsSuyYQ7xZFfGqB+uSllF/7Bnd+HpiechRX2pjLEsl2YsNjlCTHo4ztIeJpg==",
+  "dgSpecHash": "+n3ybbvkMjO8e9T1/YykU/lksAQHtXzqo/SJ+1w+5+EeDSs2tWN1frwyrIUd4M3XFDvy4HF3RjttglnpbO/pcw==",
   "success": true,
-  "projectFilePath": "E:\\ALIChegini\\project\\TutoriaASP\\CqrsMediatrExample\\CqrsMediatrExample\\CqrsMediatrExample.csproj",
+  "projectFilePath": "C:\\Users\\Sephiroth\\Desktop\\New folder (3)\\CQRSMediarExample\\CqrsMediatrExample\\CqrsMediatrExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sephiroth\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Sephiroth\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
